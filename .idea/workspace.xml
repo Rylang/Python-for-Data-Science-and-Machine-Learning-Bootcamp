@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efd3b590-087f-4a60-81ce-b9c590c769f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,63 +24,54 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="944" />
+          <entry key="py" value="1415" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="9" />
+          <entry key="ipynb" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="944" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Python" value="1415" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="9" />
+          <entry key="IPNB" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.62050945">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb">
-              <provider selected="true" editor-type-id="ipnb-editor">
-                <state>
-                  <selected id="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises - Solutions.ipynb">
-              <provider selected="true" editor-type-id="ipnb-editor">
-                <state>
-                  <selected id="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ryan Lang &lt;rylang.dev@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb" />
+        <option value="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" />
       </list>
     </option>
   </component>
@@ -106,7 +96,13 @@
             <path>
               <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="NumPy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -161,18 +157,26 @@
       <option name="presentableId" value="Default" />
       <updated>1535636608159</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished Python Crash Course Exercises">
+      <created>1535733639213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535733639213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19336143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18914647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23712446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23712446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -188,6 +192,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished Python Crash Course Exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Python Crash Course Exercises" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python-Crash-Course/Python Crash Course.ipynb">
@@ -208,6 +216,20 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="42" />
         </state>
       </provider>
     </entry>
