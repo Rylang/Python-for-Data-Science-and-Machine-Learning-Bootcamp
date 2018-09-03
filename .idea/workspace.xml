@@ -4,6 +4,8 @@
     <list default="true" id="efd3b590-087f-4a60-81ce-b9c590c769f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +47,51 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1152063338">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1071" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1071" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb">
+        <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="42" />
+              <selected id="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="32" />
             </state>
           </provider>
         </entry>
@@ -72,6 +111,8 @@
       <list>
         <option value="$PROJECT_DIR$/Python-Crash-Course/Python Crash Course Exercises .ipynb" />
         <option value="$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" />
+        <option value="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb" />
+        <option value="$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb" />
       </list>
     </option>
   </component>
@@ -90,19 +131,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
               <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="NumPy" type="462c0819:PsiDirectoryNode" />
+              <item name="Pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-for-Data-Science-and-Machine-Learning-Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="Pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="Pandas Exercises" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,8 +160,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../virtualenv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,15 +216,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18914647" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18914647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23712446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23700623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,6 +237,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18914647" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23700623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32939914" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -229,7 +296,21 @@
     <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="42" />
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise- Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python-for-Data-Analysis/Pandas/Pandas Exercises/SF Salaries Exercise.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="33" />
         </state>
       </provider>
     </entry>
